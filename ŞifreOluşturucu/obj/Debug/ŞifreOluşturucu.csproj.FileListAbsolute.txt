@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\16-ŞifreOluşturucu\ŞifreOluşturucu\ŞifreOluşturucu\bin\Debug\ŞifreOluşturucu.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\16-ŞifreOluşturucu\ŞifreOluşturucu\ŞifreOluşturucu\bin\Debug\ŞifreOluşturucu.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\16-ŞifreOluşturucu\ŞifreOluşturucu\ŞifreOluşturucu\bin\Debug\ŞifreOluşturucu.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\16-ŞifreOluşturucu\ŞifreOluşturucu\ŞifreOluşturucu\obj\Debug\ŞifreOluşturucu.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\16-ŞifreOluşturucu\ŞifreOluşturucu\ŞifreOluşturucu\obj\Debug\ŞifreOluşturucu.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\16-ŞifreOluşturucu\ŞifreOluşturucu\ŞifreOluşturucu\obj\Debug\ŞifreOluşturucu.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\16-ŞifreOluşturucu\ŞifreOluşturucu\ŞifreOluşturucu\obj\Debug\ŞifreOluşturucu.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\16-ŞifreOluşturucu\ŞifreOluşturucu\ŞifreOluşturucu\obj\Debug\ŞifreOluşturucu.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\16-ŞifreOluşturucu\ŞifreOluşturucu\ŞifreOluşturucu\obj\Debug\ŞifreOluşturucu.pdb
